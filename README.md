@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/dinesh-kumar2208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-kumar2208" height="30" width="40" /></a>
 <a href="https://instagram.com/d_cuts_vf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_cuts_vf" height="30" width="40" /></a>
 <a href="https://www.behance.net/sdineshkumar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sdineshkumar22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/d_cuts_vf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d_cuts_vf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@d_cuts_vf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@d_cuts_vf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
