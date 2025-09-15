@@ -40,8 +40,7 @@
 <h3 align="left">🌍 Languages</h3>
 
 - English  
-- Tamil  
-- Telugu  
+- Tamil   
 
 ---
 
