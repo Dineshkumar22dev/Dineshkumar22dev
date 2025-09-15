@@ -23,7 +23,6 @@
 
 <h3 align="left">🏆 Achievements & Certifications</h3>
 
-- Adobe Certified Professional – Photoshop & After Effects *(planned/ongoing)*  
 - Unity Game Development Course – Udemy *(in progress)*
 
 ---
