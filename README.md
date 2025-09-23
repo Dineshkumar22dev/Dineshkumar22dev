@@ -14,8 +14,7 @@
 
 <h3 align="left">📌 Featured Projects</h3>
 
-- 🎮 [**The Last Equation**](https://store.steampowered.com/) → 2D Action-Adventure Sci-Fi Thriller (Steam Release)  
-- 🎬 [**VFX Showreel 2025**](https://youtu.be/) → Motion graphics + compositing demo reel  
+
 - 🎨 [**UI/UX Design Portfolio**](https://www.behance.net/sdineshkumar22) → User-focused design showcase  
 - ✨ [**YouTube Edits**](https://www.youtube.com/@d_cuts_vf) → Creative video edits & shorts  
 
