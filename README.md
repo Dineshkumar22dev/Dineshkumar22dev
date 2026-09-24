@@ -2,100 +2,89 @@
 
 # 👋 Hi, I'm Dinesh Kumar
 
-### 🎨 Multimedia & Animation Graduate
-### Visual Designer · Multimedia Creative
+## 🎨 Multimedia & Animation Graduate
 
-**I turn ideas into visuals, stories & digital experiences.**
+## Visual Designer · Multimedia Creative
+
+### I turn ideas into visuals, stories & digital experiences.
 
 <br>
 
-[ 🌐 Portfolio ] · [ 💼 LinkedIn ] · [ 📄 Resume ]
+🌐 [Portfolio](https://www.sdineshkumar.dev/) ·
+💼 [LinkedIn](https://in.linkedin.com/in/dinesh-kumar2208) ·
+🎨 [Behance](https://www.behance.net/Sdineshkum22)
 
 <br><br>
 
-`Graphic Design` `Branding` `Social Media`
-`3D` `VFX` `UI/UX` `Creative Technology`
+`Graphic Design` · `Branding` · `Social Media`
+
+`3D / VFX` · `UI/UX` · `Creative Technology`
 
 </div>
 
 ---
 
-# ✦ PROFILE
+# ✦ ABOUT ME
 
 I'm a **B.Sc. Multimedia & Animation graduate from VIT Vellore** with practical experience in **visual design, social media design, branding and marketing creatives**.
 
-I enjoy taking an idea from concept to final visual communication while exploring different areas of multimedia through personal projects and freelance work.
+I also explore **3D, animation, VFX, UI/UX and creative technology** through personal projects and freelance work.
 
-### 💼 Currently
-
-| | Focus |
-|---|---|
-| 🎨 | Freelance creative projects |
-| 📱 | Social media & marketing creatives |
-| 🏷️ | Branding & visual communication |
-| 🧊 | 3D, animation & VFX projects |
-| 🎬 | Exploring video & motion graphics |
-| 🤖 | Learning AI-assisted creative workflows |
-| 🐍 | Learning Python |
-| 🎮 | Exploring Unity — Beginner |
-
----
-
-# ✦ WHAT I DO
+<br>
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### 🎨
+<td width="50%" valign="top">
 
-**DESIGN**
+## 🎨 DESIGN
 
-Graphic Design  
-Visual Design  
-Branding  
-Social Media
+**Visual Design**
 
-</td>
+**Branding**
 
-<td width="25%" align="center">
+**Social Media**
 
-### 🎬
-
-**MEDIA**
-
-Video Editing  
-Motion Graphics  
-Creative Content  
-Visual Storytelling
+**Marketing Creatives**
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🧊
+## 🎬 MEDIA
 
-**3D / VFX**
+**Video Editing**
 
-3D Modelling  
-Animation  
-Rendering  
-Visual Effects
+**Motion Graphics**
+
+**Creative Content**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧊 CREATIVE
+
+**3D · VFX**
+
+**Animation · UI/UX**
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 💻
+## 🌱 LEARNING
 
-**DIGITAL**
+**AI · Python**
 
-UI/UX  
-Game Development  
-Creative Technology  
-AI Workflows
+**Unity · AI Workflows**
 
 </td>
+
 </tr>
 </table>
 
@@ -105,24 +94,75 @@ AI Workflows
 
 ## 🎨 VIT Outreach — Design Internship
 
-**Jan 2026 — May 2026**
+### Jan 2026 — May 2026
 
 `Visual Design` · `Social Media Design` · `Branding`
 
 Worked on visual communication supporting **admissions, campaigns and digital outreach**.
 
-| Area | Selected Work |
-|---|---|
-| 🎨 Visual Design | UG / PG admission creatives |
-| 📚 Education Content | VITEEE exam guide creatives |
-| 📱 Social Media | Campaign designs |
-| 📢 Digital Advertising | Google Display Ads creatives |
-| 📣 Paid Social | Meta / Facebook / Instagram creatives |
-| 🏷️ Marketing | Campaign & promotional visuals |
+<br>
 
-### Core Experience
+<table>
+<tr>
 
-`Graphic Design` `Visual Design` `Social Media Design` `Branding` `Marketing Creatives`
+<td width="50%" valign="top">
+
+## 🎨 VISUAL DESIGN
+
+**UG Admission Creatives**
+
+**PG Admission Creatives**
+
+**Program Promotion**
+
+**Flyers & Promotional Materials**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📱 DIGITAL CAMPAIGNS
+
+**Google Display Ads**
+
+**Meta Ads**
+
+**Instagram Creatives**
+
+**Campaign Adaptations**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 EDUCATION
+
+**VITEEE Exam Guides**
+
+**Student Information Creatives**
+
+**Admission Deadline Campaigns**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏷️ BRANDING
+
+**Marketing Creatives**
+
+**Promotional Visuals**
+
+**Multi-platform Adaptations**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -130,58 +170,227 @@ Worked on visual communication supporting **admissions, campaigns and digital ou
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
+
+<img src="./assets/projects/the-last-equation.png" width="100%" alt="The Last Equation">
 
 ## 🎮 The Last Equation
 
-**2D Action-Adventure / Sci-Fi Thriller**
+### 2D Action-Adventure / Sci-Fi Thriller
 
-Personal game project exploring game design, storytelling and interactive development.
+A personal game project exploring storytelling, gameplay and interactive development.
 
-**Experience:** 🌱 Beginner Project
+`Unity` · `Game Design`
+
+🌱 **Beginner Project**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎮 Project: Monster Cure
-
-**2D Side-Scroller**
-
-Personal game concept exploring 2D gameplay, assets and interactive design.
-
-**Experience:** 🌱 Beginner Project
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/projects/ben10-omnitrix.png" width="100%" alt="Ben 10 Omnitrix">
 
 ## 🧊 Ben 10 Omnitrix
 
-**3D Modelling & Rendering**
+### 3D Modelling & Rendering
 
-3D modelling project focused on asset creation and rendering.
+A 3D modelling and rendering project.
 
-**Tools:** Autodesk Maya 2024 · Arnold Renderer
+`Autodesk Maya` · `Arnold Renderer`
 
-**Focus:**  
-Topology · Materials · Emissive Elements · Rendering
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="./assets/projects/a-letter-that-remains.png" width="100%" alt="A Letter That Remains">
+
+## 🎬 A Letter That Remains
+
+### 3D Animated Short Film
+
+A creative project focused on environments, characters, animation and visual storytelling.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎬 A Letter That Remains
+<img src="./assets/projects/monster-cure.png" width="100%" alt="Project Monster Cure">
 
-**3D Animated Short Film**
+## 🎮 Project: Monster Cure
 
-Personal animation project combining:
+### 2D Side-Scroller
 
-`3D Environments` · `Characters` · `Animation` · `Visual Storytelling`
+A personal game concept exploring gameplay, assets and interactive design.
+
+🌱 **Beginner Project**
 
 </td>
+
+</tr>
+</table>
+
+---
+
+# ✦ CREATIVE TOOLKIT
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎨 DESIGN
+
+| | |
+|---|---|
+| 🟦 `Photoshop` | 🟦 `Illustrator` |
+| 🟦 `Canva` | 🟦 `Figma` |
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎬 VIDEO & MOTION
+
+| | |
+|---|---|
+| 🟪 `Premiere Pro` | 🟪 `After Effects` |
+| 🟪 `DaVinci Resolve` | 🟪 `Filmora` |
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧊 3D & VFX
+
+| | |
+|---|---|
+| 🟩 `Blender` | 🟩 `Autodesk Maya` |
+| 🟩 `Arnold Renderer` | |
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎮 GAME DEVELOPMENT
+
+| | |
+|---|---|
+| 🟧 `Unity` | 🟧 `Unreal Engine` |
+
+🌱 **Beginner / Learning**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 PROGRAMMING
+
+| | |
+|---|---|
+| 🟨 `C` | 🟨 `C#` |
+| 🟨 `Python` | |
+
+🐍 **Python — Learning**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 WEB
+
+| | |
+|---|---|
+| 🟥 `HTML` | 🟥 `CSS` |
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ✦ EXPERIENCE LEVEL
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🟢 CORE
+
+**Graphic Design**
+
+**Visual Design**
+
+**Social Media**
+
+**Branding**
+
+**Marketing Creatives**
+
+**Professional Focus**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔵 PROJECT EXPERIENCE
+
+**3D Modelling**
+
+**Animation**
+
+**VFX**
+
+**UI/UX**
+
+**Project Experience**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🟠 LEARNING
+
+**Game Development**
+
+**Python**
+
+**AI Workflows**
+
+**Growing Skills**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎬 VIDEO · 🎮 GAME DEV · 🤖 AI
+
+**Video:** ~1 Month Direct Experience
+
+**Game Development:** Beginner
+
+**AI:** Exploring
+
+</td>
+
 </tr>
 </table>
 
@@ -189,91 +398,53 @@ Personal animation project combining:
 
 # ✦ UI / UX
 
-### 🖥️ Interface & Visual Design
+## 🖥️ Interface & Visual Design
 
-Projects exploring:
+| | |
+|---|---|
+| 🟦 `UI Design` | 🟦 `Wireframing` |
+| 🟦 `Layouts` | 🟦 `User Flows` |
+| 🟦 `Visual Systems` | 🟦 `Interface Design` |
 
-`UI Design` · `Wireframing` · `Layouts` · `User Flows` · `Visual Systems`
+Exploring clear and user-focused digital interfaces.
 
-Focused on creating clear and user-focused digital interfaces.
+<br>
 
-👉 **[Explore my Behance Portfolio](https://www.behance.net/)**
+**[🎨 Explore my Behance Portfolio →](https://www.behance.net/Sdineshkum22)**
 
 ---
 
 # ✦ VIDEO
 
-### 🎬 Video Editing
+<table>
+<tr>
 
-**~1 Month of Direct Editing Experience**
+<td width="50%" valign="top">
 
-Focused on short-form editing and creative content production.
+## 🎬 VIDEO EDITING
 
-`Premiere Pro` · `DaVinci Resolve` · `Filmora`
+### ~1 Month Direct Experience
 
-> Video editing is currently an entry-level area I'm developing alongside my design work.
+Short-form editing and creative content production.
 
----
+</td>
 
-# ✦ EXPERIENCE MAP
+<td width="50%" valign="top">
 
-A quick view of where I'm currently strongest and what I'm developing.
+## 🛠️ TOOLS
 
-| Area | Experience |
-|---|---|
-| 🎨 Graphic Design | ● Core Experience |
-| 🎯 Visual Design | ● Core Experience |
-| 📱 Social Media Design | ● Core Experience |
-| 🏷️ Branding | ● Core Experience |
-| 📢 Marketing Creatives | ● Core Experience |
-| 🧊 3D Modelling | ○ Project Experience |
-| 🎬 Animation | ○ Project Experience |
-| 🖥️ UI/UX | ○ Project Experience |
-| 🎨 VFX | ○ Project Experience |
-| 🎬 Video Editing | ○ ~1 Month Direct Experience |
-| 🎮 Game Development | △ Beginner / Learning |
-| 🐍 Python | △ Learning |
-| 🤖 AI Workflows | △ Exploring |
+🟪 `Premiere Pro`
 
-**Legend**
+🟪 `DaVinci Resolve`
 
-`● Core Experience` · `○ Project Experience` · `△ Learning / Exploring`
+🟪 `Filmora`
 
----
+### Entry Level
 
-# ✦ CREATIVE TOOLKIT
+</td>
 
-## 🎨 Design
-
-`Photoshop` · `Illustrator` · `Canva` · `Figma`
-
----
-
-## 🎬 Video & Motion
-
-`Premiere Pro` · `After Effects` · `DaVinci Resolve` · `Filmora`
-
----
-
-## 🧊 3D & VFX
-
-`Blender` · `Autodesk Maya` · `Arnold Renderer`
-
----
-
-## 🎮 Game Development
-
-`Unity` · `Unreal Engine`
-
-**Level:** 🌱 Beginner / Learning
-
----
-
-## 💻 Programming & Web
-
-`C` · `C#` · `Python` · `HTML` · `CSS`
-
-**Python:** 🔄 Currently Learning
+</tr>
+</table>
 
 ---
 
@@ -281,41 +452,43 @@ A quick view of where I'm currently strongest and what I'm developing.
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### 🤝
-**COLLABORATION**
+<td width="50%" valign="top">
 
-Communicating ideas and working with creative teams.
+## 🤝 COLLABORATION
 
-</td>
-
-<td width="25%" align="center">
-
-### 🧩
-**PROBLEM SOLVING**
-
-Turning creative requirements into practical workflows.
+Working with creative teams and communicating ideas clearly.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🎯
-**VISUAL THINKING**
+## 🎯 VISUAL THINKING
 
-Turning concepts into clear visual communication.
+Turning concepts and requirements into visual communication.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧩 PROBLEM SOLVING
+
+Finding practical creative solutions for different requirements.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### ⏱️
-**TIME MANAGEMENT**
+## ⏱️ DEADLINES
 
-Organising creative work around project requirements and deadlines.
+Organising creative work around timelines and deliverables.
 
 </td>
+
 </tr>
 </table>
 
@@ -323,41 +496,76 @@ Organising creative work around project requirements and deadlines.
 
 # ✦ CURRENTLY LEARNING
 
-| Area | Status |
-|---|---|
-| 🤖 AI Prompting | 🔄 Learning |
-| 🐍 Python | 🔄 Learning |
-| 🎮 Unity Game Development | 🌱 Beginner |
-| ✨ AI-assisted Creative Workflows | 🔄 Exploring |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI PROMPTING
+
+Exploring AI-assisted creative workflows and prompt design.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐍 PYTHON
+
+Building programming fundamentals through learning projects.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎮 UNITY
+
+Learning game development and interactive workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✨ CREATIVE AI
+
+Exploring new tools for design, media and creative production.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ✦ EDUCATION
 
-### 🎓 B.Sc. Multimedia & Animation
+## 🎓 B.Sc. Multimedia & Animation
 
-**Vellore Institute of Technology — VIT Vellore**
+### Vellore Institute of Technology — VIT Vellore
 
-**Graduated: 2025**
+**Graduated · 2025**
 
-Areas explored through education and projects:
+<br>
 
-`Animation` · `3D` · `VFX` · `Graphic Design` · `UI/UX` · `Game Development` · `Video` · `Multimedia`
+| | |
+|---|---|
+| 🎨 `Graphic Design` | 🧊 `3D & Animation` |
+| ✨ `VFX` | 🖥️ `UI/UX` |
+| 🎮 `Game Development` | 🎬 `Multimedia` |
 
 ---
 
-# ✦ CERTIFICATIONS & HIGHLIGHTS
+# ✦ HIGHLIGHTS
 
-### 📜 Selected Certifications
+<table>
+<tr>
 
-- **Foundations of Video: The Art of Editing** — LinkedIn
-- **Generative AI Mastermind** — Outskill
-- **Generative AI Foundations Certificate** — upGrad
-- **Google Workspace for Education – Higher Ed Program** — Learning Links Foundation
-- **Augmenta: AR/VR Experience** — VIT
-- **GameDev Insights** — VIT
+<td width="50%" valign="top">
 
-### 🏅 Highlights
+## 🏆 ACHIEVEMENTS
 
 **Executive Member – Support**  
 VIT Student Council · 2024–25
@@ -365,42 +573,95 @@ VIT Student Council · 2024–25
 **Cent Percent Attendance**  
 VIT · 2024–25
 
-**Industrial Visit — Phantom VFX Pipeline**  
-Phantom Digital Effects · Chennai · 2024
+**Phantom VFX Pipeline**  
+Industrial Visit · Chennai · 2024
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📜 CERTIFICATIONS
+
+**Foundations of Video**  
+LinkedIn · 2026
+
+**Generative AI Mastermind**  
+Outskill · 2025
+
+**Generative AI Foundations**  
+upGrad · 2025
+
+**Augmenta: AR/VR Experience**  
+VIT · 2024
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ✦ OPEN TO
+# 🟢 OPEN TO OPPORTUNITIES
 
-### 🎨 Design & Creative
+<table>
+<tr>
 
-`Graphic Designer` · `Visual Designer` · `Social Media Designer`
+<td width="50%" valign="top">
 
-`Branding` · `Marketing Creatives` · `Creative Content`
+## 🎨 DESIGN
 
-### 🎬 Media & Animation
+| | |
+|---|---|
+| 🟦 `Graphic Design` | 🟦 `Visual Design` |
+| 🟦 `Social Media Design` | 🟦 `Branding` |
+| 🟦 `Marketing Creatives` | |
 
-`Entry-Level Video Editing` · `Motion Graphics`
+</td>
 
-`3D Modelling` · `VFX` · `Animation`
+<td width="50%" valign="top">
 
-### 🌱 Exploring
+## 🎬 CREATIVE MEDIA
 
-`Game Development — Beginner`
+| | |
+|---|---|
+| 🟪 `Creative Content` | 🟪 `Video Editing` |
+| 🟪 `Motion Graphics` | 🟪 `3D Modelling` |
+| 🟪 `VFX` | 🟪 `Animation` |
 
-`AI-assisted Creative Workflows`
+</td>
 
-`Creative Technology`
+</tr>
 
----
+<tr>
 
-### 💼 Work Mode
+<td width="50%" valign="top">
 
-`Freelance` · `Part-Time` · `Full-Time` · `Remote`
+## 🌱 EXPLORING
 
-### 📍 Location
+| | |
+|---|---|
+| 🟧 `Game Development` | 🟧 `AI Workflows` |
+| 🟧 `Creative Technology` | |
 
-`Tamil Nadu` · `India`
+**Game Development — Beginner**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 WORK MODE
+
+| | |
+|---|---|
+| 🟦 `Freelance` | 🟦 `Part-Time` |
+| 🟦 `Full-Time` | 🟦 `Remote` |
+
+📍 `Tamil Nadu` · `India`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -408,87 +669,30 @@ Phantom Digital Effects · Chennai · 2024
 
 <div align="center">
 
-### 📄 Want the full picture?
+## 📄 Want the full picture?
 
-**[ VIEW MY RESUME → ](./assets/Dinesh_Kumar_Resume.pdf)**
-
-</div>
-
----
-
-# ✦ GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshkumar22dev" alt="GitHub Streak">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎨 Creative
-
-**Design · Animation · VFX**
-
-Visual storytelling and digital content.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎮 Interactive
-
-**Game Development**
-
-Beginner-level exploration of gameplay and interactive projects.
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Technology
-
-**Python · C# · Web**
-
-Learning and exploring creative technology.
-
-</td>
-</tr>
-</table>
-
----
-
-# ✦ CONNECT
-
-<div align="center">
-
-### Let's create something interesting.
-
-<br>
-
-🌐 **[Portfolio](https://www.sdineshkumar.dev/)**  
-💼 **[LinkedIn](https://in.linkedin.com/in/dinesh-kumar2208)**  
-🎨 **[Behance](https://www.behance.net/)**  
-▶️ **[YouTube](https://www.youtube.com/)**  
-📸 **[Instagram](https://www.instagram.com/)**  
-📩 **[Email](mailto:your-email@example.com)**
+**[VIEW MY RESUME →](./assets/Dinesh_Kumar_Resume.pdf)**
 
 </div>
 
 ---
+
+# ✦ LET'S CONNECT
 
 <div align="center">
 
 ## 🎨 Design. Create. Learn.
 
-**Turning ideas into visual experiences — one project at a time.**
+### Turning ideas into visual experiences — one project at a time.
 
 <br>
 
-⭐ Thanks for visiting my profile!
+🌐 [**Portfolio**](https://www.sdineshkumar.dev/) ·
+💼 [**LinkedIn**](https://in.linkedin.com/in/dinesh-kumar2208) ·
+🎨 [**Behance**](https://www.behance.net/Sdineshkum22)
+
+<br><br>
+
+**⭐ Thanks for visiting my profile!**
 
 </div>
