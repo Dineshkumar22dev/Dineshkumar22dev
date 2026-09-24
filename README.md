@@ -8,8 +8,6 @@
 
 ### I turn ideas into visuals, stories & digital experiences.
 
-<br>
-
 🌐 [Portfolio](https://www.sdineshkumar.dev/) ·
 💼 [LinkedIn](https://in.linkedin.com/in/dinesh-kumar2208) ·
 🎨 [Behance](https://www.behance.net/Sdineshkum22)
@@ -30,9 +28,7 @@ I'm a **B.Sc. Multimedia & Animation graduate from VIT Vellore** with practical 
 
 I also explore **3D, animation, VFX, UI/UX and creative technology** through personal projects and freelance work.
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -100,9 +96,7 @@ I also explore **3D, animation, VFX, UI/UX and creative technology** through per
 
 Worked on visual communication supporting **admissions, campaigns and digital outreach**.
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -168,18 +162,16 @@ Worked on visual communication supporting **admissions, campaigns and digital ou
 
 # ✦ SELECTED WORK
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
-
-<img src="./assets/projects/the-last-equation.png" width="100%" alt="The Last Equation">
 
 ## 🎮 The Last Equation
 
 ### 2D Action-Adventure / Sci-Fi Thriller
 
-A personal game project exploring storytelling, gameplay and interactive development.
+Personal game project exploring storytelling, gameplay and interactive development.
 
 `Unity` · `Game Design`
 
@@ -189,13 +181,11 @@ A personal game project exploring storytelling, gameplay and interactive develop
 
 <td width="50%" valign="top">
 
-<img src="./assets/projects/ben10-omnitrix.png" width="100%" alt="Ben 10 Omnitrix">
-
 ## 🧊 Ben 10 Omnitrix
 
 ### 3D Modelling & Rendering
 
-A 3D modelling and rendering project.
+3D modelling and rendering project.
 
 `Autodesk Maya` · `Arnold Renderer`
 
@@ -207,25 +197,21 @@ A 3D modelling and rendering project.
 
 <td width="50%" valign="top">
 
-<img src="./assets/projects/a-letter-that-remains.png" width="100%" alt="A Letter That Remains">
-
 ## 🎬 A Letter That Remains
 
 ### 3D Animated Short Film
 
-A creative project focused on environments, characters, animation and visual storytelling.
+Creative project focused on environments, characters, animation and visual storytelling.
 
 </td>
 
 <td width="50%" valign="top">
 
-<img src="./assets/projects/monster-cure.png" width="100%" alt="Project Monster Cure">
-
 ## 🎮 Project: Monster Cure
 
 ### 2D Side-Scroller
 
-A personal game concept exploring gameplay, assets and interactive design.
+Personal game concept exploring gameplay, assets and interactive design.
 
 🌱 **Beginner Project**
 
@@ -238,7 +224,7 @@ A personal game concept exploring gameplay, assets and interactive design.
 
 # ✦ CREATIVE TOOLKIT
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -324,7 +310,7 @@ A personal game concept exploring gameplay, assets and interactive design.
 
 # ✦ EXPERIENCE LEVEL
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -400,15 +386,33 @@ A personal game concept exploring gameplay, assets and interactive design.
 
 ## 🖥️ Interface & Visual Design
 
-| | |
-|---|---|
-| 🟦 `UI Design` | 🟦 `Wireframing` |
-| 🟦 `Layouts` | 🟦 `User Flows` |
-| 🟦 `Visual Systems` | 🟦 `Interface Design` |
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+🟦 `UI Design`
+
+🟦 `Wireframing`
+
+🟦 `Layouts`
+
+</td>
+
+<td width="50%" valign="top">
+
+🟦 `User Flows`
+
+🟦 `Visual Systems`
+
+🟦 `Interface Design`
+
+</td>
+
+</tr>
+</table>
 
 Exploring clear and user-focused digital interfaces.
-
-<br>
 
 **[🎨 Explore my Behance Portfolio →](https://www.behance.net/Sdineshkum22)**
 
@@ -416,7 +420,7 @@ Exploring clear and user-focused digital interfaces.
 
 # ✦ VIDEO
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -450,7 +454,7 @@ Short-form editing and creative content production.
 
 # ✦ HOW I WORK
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -496,7 +500,7 @@ Organising creative work around timelines and deliverables.
 
 # ✦ CURRENTLY LEARNING
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -548,19 +552,37 @@ Exploring new tools for design, media and creative production.
 
 **Graduated · 2025**
 
-<br>
+<table width="100%">
+<tr>
 
-| | |
-|---|---|
-| 🎨 `Graphic Design` | 🧊 `3D & Animation` |
-| ✨ `VFX` | 🖥️ `UI/UX` |
-| 🎮 `Game Development` | 🎬 `Multimedia` |
+<td width="50%" align="center">
+
+🎨 `Graphic Design`
+
+🧊 `3D & Animation`
+
+✨ `VFX`
+
+</td>
+
+<td width="50%" align="center">
+
+🖥️ `UI/UX`
+
+🎮 `Game Development`
+
+🎬 `Multimedia`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ✦ HIGHLIGHTS
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -582,17 +604,13 @@ Industrial Visit · Chennai · 2024
 
 ## 📜 CERTIFICATIONS
 
-**Foundations of Video**  
-LinkedIn · 2026
+**Foundations of Video** — LinkedIn · 2026
 
-**Generative AI Mastermind**  
-Outskill · 2025
+**Generative AI Mastermind** — Outskill · 2025
 
-**Generative AI Foundations**  
-upGrad · 2025
+**Generative AI Foundations** — upGrad · 2025
 
-**Augmenta: AR/VR Experience**  
-VIT · 2024
+**Augmenta: AR/VR Experience** — VIT · 2024
 
 </td>
 
@@ -603,7 +621,7 @@ VIT · 2024
 
 # 🟢 OPEN TO OPPORTUNITIES
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -685,13 +703,11 @@ VIT · 2024
 
 ### Turning ideas into visual experiences — one project at a time.
 
-<br>
-
 🌐 [**Portfolio**](https://www.sdineshkumar.dev/) ·
 💼 [**LinkedIn**](https://in.linkedin.com/in/dinesh-kumar2208) ·
 🎨 [**Behance**](https://www.behance.net/Sdineshkum22)
 
-<br><br>
+<br>
 
 **⭐ Thanks for visiting my profile!**
 
