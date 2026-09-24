@@ -1,18 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm **Dinesh Kumar**
+# 👋 Hi, I'm Dinesh Kumar
 
 ### 🎨 Multimedia & Animation Graduate · Creative Technologist · Visual Storyteller
 
-**I turn ideas into visuals, interactive experiences, and digital content.**
+**Designing visuals • Editing stories • Building interactive experiences**
 
-<p>
-  <a href="https://www.sdineshkumar.dev/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dinesh-kumar2208/">💼 LinkedIn</a> •
-  <a href="https://www.behance.net/sdineshkumar22">🎨 Behance</a> •
-  <a href="https://www.youtube.com/@d_cuts_vf">▶️ YouTube</a> •
-  <a href="mailto:dineshgokul2221@gmail.com">📩 Email</a>
-</p>
+<br>
+
+<a href="https://www.sdineshkumar.dev/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/dinesh-kumar2208/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
+</a>
+<a href="https://www.behance.net/sdineshkumar22">
+<img src="https://img.shields.io/badge/🎨_Behance-Portfolio-1769FF?style=for-the-badge" />
+</a>
+<a href="https://www.youtube.com/@d_cuts_vf">
+<img src="https://img.shields.io/badge/▶️_YouTube-Watch-FF0000?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="mailto:dineshgokul2221@gmail.com">
+<img src="https://img.shields.io/badge/📩_Email-Contact_Me-374151?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -20,36 +33,41 @@
 
 ## 🚀 About Me
 
-I'm a **Multimedia & Animation graduate** interested in the intersection of **design, animation, video, VFX, games, and emerging AI workflows**.
+I'm a **Multimedia & Animation graduate** interested in combining **design, animation, video, VFX, 3D, games, UI/UX and AI-assisted creative workflows**.
 
-I enjoy taking an idea from a rough concept and turning it into something visual, interactive, and usable.
+I enjoy taking an idea from a rough concept and turning it into something **visual, interactive and meaningful**.
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎯 Currently
 
-* 💼 Working as a **Freelancer**
-* 🤖 Learning **AI Prompting & Python**
-* 🎮 Exploring **Game Development**
-* 🎬 Creating **Video & Motion Graphics**
-* 🎨 Building **UI/UX & Graphic Design** projects
+- 💼 Working as a **Freelancer**
+- 🤖 Learning **AI Prompting & Python**
+- 🎮 Exploring **Game Development**
+- 🎬 Creating **Video & Motion Graphics**
+- 🎨 Working on **Graphic & UI/UX Design**
+- 🧊 Exploring **3D & VFX**
 
 </td>
-<td width="50%">
 
-### 💡 I Enjoy
+<td width="50%" valign="top">
 
-* 🎨 Visual Design
-* 🎥 Video Editing
-* ✨ Motion Graphics
-* 🧊 3D & VFX
-* 🎮 Game Development
-* 🖥️ UI/UX
-* 🤖 AI-assisted creative workflows
+### 💡 Interested In
+
+- 🎨 Visual Design
+- 🎬 Video Editing
+- ✨ Motion Graphics
+- 🧊 3D & VFX
+- 🎮 Game Development
+- 🖥️ UI/UX
+- 🤖 AI-assisted Creative Workflows
+- 🌐 Creative Web Experiences
 
 </td>
+
 </tr>
 </table>
 
@@ -61,15 +79,17 @@ I enjoy taking an idea from a rough concept and turning it into something visual
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🎨
 
-**Graphic Design**
+### Graphic Design
 
-Social Media
-Branding
-Marketing Creatives
+Social Media  
+Branding  
+Marketing Creatives  
+Digital Campaigns
 
 </td>
 
@@ -77,11 +97,12 @@ Marketing Creatives
 
 ### 🎬
 
-**Video & Motion**
+### Video & Motion
 
-Video Editing
-Motion Graphics
-Short-form Content
+Video Editing  
+Motion Graphics  
+Short-form Content  
+Visual Storytelling
 
 </td>
 
@@ -89,11 +110,12 @@ Short-form Content
 
 ### 🎮
 
-**Game Development**
+### Game Development
 
-Game Design
-3D Assets
-Interactive Experiences
+Game Design  
+2D / 3D Assets  
+Interactive Experiences  
+Prototyping
 
 </td>
 
@@ -101,13 +123,15 @@ Interactive Experiences
 
 ### 🧊
 
-**3D & VFX**
+### 3D & VFX
 
-3D Modelling
-Animation
-Rendering & VFX
+3D Modelling  
+Animation  
+Rendering  
+Visual Effects
 
 </td>
+
 </tr>
 </table>
 
@@ -117,59 +141,85 @@ Rendering & VFX
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎨 UI/UX Design
 
-**User-focused interfaces and visual design experiments.**
+Creating user-focused interfaces and visual design concepts.
+
+**Focus**
+
+- UI Design
+- Wireframing
+- Visual Systems
+- User-focused Layouts
+
+<br>
 
 <a href="https://www.behance.net/sdineshkumar22">
-View Behance Portfolio →
+👉 View Behance Portfolio
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎥 Video Editing
 
-**Creative edits, short-form videos and visual storytelling.**
+Creative edits, short-form content and visual storytelling.
+
+**Focus**
+
+- Video Editing
+- Motion Graphics
+- Reels / Shorts
+- Creative Effects
+
+<br>
 
 <a href="https://www.youtube.com/@d_cuts_vf">
-Watch on YouTube →
+👉 Watch on YouTube
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🎮 Game Projects
+<td width="50%" valign="top">
 
-**Interactive projects exploring gameplay, storytelling and visual design.**
+### 🎮 Game Development
 
-**The Last Equation**
+Exploring gameplay, storytelling and interactive experiences.
+
+**Projects**
+
+🎮 **The Last Equation**  
 2D Action-Adventure / Sci-Fi Thriller
 
-**Project: Monster Cure**
+🎮 **Project: Monster Cure**  
 2D Side-scroller
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧊 3D & Animation
 
-**3D modelling, rendering and animation experiments.**
+Exploring modelling, animation, rendering and storytelling.
 
-**Ben 10 Omnitrix**
+**Projects**
+
+🧊 **Ben 10 Omnitrix**  
 3D Modelling & Rendering
 
-**A Letter That Remains**
+🎬 **A Letter That Remains**  
 3D Animated Short Film
 
 </td>
+
 </tr>
 </table>
 
@@ -180,90 +230,88 @@ Watch on YouTube →
 ### 🎨 Design & Creative
 
 <p>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="45" height="45" alt="Photoshop"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" alt="Illustrator"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-1.svg" width="45" height="45" alt="Premiere Pro"/>
-<img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="45" height="45" alt="After Effects"/>
-<img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-12.svg" width="45" height="45" alt="DaVinci Resolve"/>
+<img src="https://skillicons.dev/icons?i=blender,ps,ai,pr,ae,davinci,canva" />
 </p>
 
-**Blender · Photoshop · Illustrator · Premiere Pro · After Effects · DaVinci Resolve · Filmora · Canva**
+**Blender · Photoshop · Illustrator · Premiere Pro · After Effects · DaVinci Resolve · Canva**
+
+---
 
 ### 🎮 Game Development
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="Unity"/>
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="45" height="45" alt="Unreal Engine"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
-**Unity · Unreal Engine · Game Design · 2D/3D Assets**
+**Unity · Unreal Engine**
+
+---
 
 ### 💻 Programming & Web
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=c,cs,python,html,css" />
 </p>
 
 **C · C# · Python · HTML · CSS**
 
-### 🖥️ UI/UX
+---
+
+### 🖥️ UI/UX & Design
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-**Figma · Wireframing · Visual Design · User-focused Interfaces**
+**Figma · Wireframing · Visual Design · UI Design**
 
 ---
 
-## 🧠 Skills Beyond Software
+## 🧠 Professional Skills
 
 <table>
 <tr>
-<td width="25%" align="center">
+
+<td align="center" width="25%">
 
 ### 🤝
 
 **Collaboration**
 
-Working with designers, developers and creative teams
+Working with designers, developers and creative teams.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🧩
 
 **Problem Solving**
 
-Turning creative concepts into practical workflows
+Turning creative concepts into practical workflows.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### ⏱️
 
 **Time Management**
 
-Organising creative work around deadlines
+Organising creative work around project deadlines.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 💡
 
 **Creative Thinking**
 
-Combining technology, design and storytelling
+Combining technology, design and storytelling.
 
 </td>
+
 </tr>
 </table>
 
@@ -271,38 +319,118 @@ Combining technology, design and storytelling
 
 ## 🏆 Learning & Certifications
 
-| 🎓 Learning            | 📌 Status      |
-| ---------------------- | -------------- |
+| 🎓 Area | 📌 Status |
+|---|---|
+| Multimedia & Animation | ✅ Graduated |
 | Unity Game Development | 🔄 In Progress |
-| AI Prompting           | 🔄 Learning    |
-| Python                 | 🔄 Learning    |
-| Multimedia & Animation | ✅ Graduated    |
+| AI Prompting | 🔄 Learning |
+| Python | 🔄 Learning |
 
 ---
 
 ## 🌍 Languages
 
-| Language     | Level        |
-| ------------ | ------------ |
-| 🇬🇧 English | Professional |
-| 🇮🇳 Tamil   | Native       |
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+🇬🇧
+
+### English
+
+Professional Communication
+
+</td>
+
+<td width="50%" align="center">
+
+🇮🇳
+
+### Tamil
+
+Native Language
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 💼 Open to Opportunities
 
-I'm currently open to **freelance, part-time and full-time opportunities**.
+I'm currently open to **Freelance, Part-time and Full-time opportunities**.
 
-| Area       | Interested In                        |
-| ---------- | ------------------------------------ |
-| 🎨 Design  | Graphic Design · UI/UX · Branding    |
-| 🎬 Video   | Video Editing · Motion Graphics      |
-| 🎮 Games   | Game Development · Game Design       |
-| 🧊 3D      | 3D Modelling · Animation · VFX       |
-| 🌐 Digital | Website Design · Creative Technology |
-| 🤖 AI      | AI-assisted Creative Workflows       |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 Design & Creative
+
+- Graphic Design
+- UI/UX Design
+- Branding
+- Social Media Design
+- Marketing Creatives
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Media & Animation
+
+- Video Editing
+- Motion Graphics
+- VFX
+- 3D Modelling
+- Animation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Interactive
+
+- Game Development
+- Game Design
+- 2D / 3D Assets
+- Interactive Experiences
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Digital & Technology
+
+- AI-assisted Creative Workflows
+- Creative Technology
+- Website Design
+- Digital Content
+
+</td>
+
+</tr>
+</table>
 
 📍 **Open to remote opportunities and suitable roles in Tamil Nadu / India.**
+
+---
+
+## 📄 Resume & Experience
+
+<div align="center">
+
+<a href="https://drive.google.com/drive/folders/1rXYsRRnRzzv0zvQybWuypwtHWXssDgAW?usp=sharing">
+<img src="https://img.shields.io/badge/📄_View_My_Resume-374151?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
@@ -310,13 +438,50 @@ I'm currently open to **freelance, part-time and full-time opportunities**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshkumar22dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img
+src="https://streak-stats.demolab.com/?user=dineshkumar22dev&theme=dark&hide_border=true"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dineshkumar22dev&show_icons=true&locale=en" alt="GitHub Stats" />
+<table>
+<tr>
 
-</div>
+<td align="center" width="33%">
+
+### 🎨 Creative
+
+**Design · Animation · VFX**
+
+Visual storytelling and digital content.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎮 Interactive
+
+**Game Development**
+
+Gameplay, assets and interactive experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Technology
+
+**Python · C# · Web**
+
+Learning and building creative technology.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -324,14 +489,129 @@ I'm currently open to **freelance, part-time and full-time opportunities**.
 
 <div align="center">
 
-| Platform     | Link                                                          |
-| ------------ | ------------------------------------------------------------- |
-| 🌐 Portfolio | [sdineshkumar.dev](https://www.sdineshkumar.dev/)             |
-| 💼 LinkedIn  | [Dinesh Kumar](https://www.linkedin.com/in/dinesh-kumar2208/) |
-| 🎨 Behance   | [@sdineshkumar22](https://www.behance.net/sdineshkumar22)     |
-| ▶️ YouTube   | [@d_cuts_vf](https://www.youtube.com/@d_cuts_vf)              |
-| 📸 Instagram | [@d_cuts_vf](https://instagram.com/d_cuts_vf)                 |
-| 📝 Blog      | [Dinesh Kumar Dev](https://dineshkumardev.blogspot.com/)      |
+<table>
+<tr>
+
+<td align="center">
+
+🌐
+
+<br>
+
+<a href="https://www.sdineshkumar.dev/">
+<b>Portfolio</b>
+</a>
+
+</td>
+
+<td align="center">
+
+💼
+
+<br>
+
+<a href="https://www.linkedin.com/in/dinesh-kumar2208/">
+<b>LinkedIn</b>
+</a>
+
+</td>
+
+<td align="center">
+
+🎨
+
+<br>
+
+<a href="https://www.behance.net/sdineshkumar22">
+<b>Behance</b>
+</a>
+
+</td>
+
+<td align="center">
+
+▶️
+
+<br>
+
+<a href="https://www.youtube.com/@d_cuts_vf">
+<b>YouTube</b>
+</a>
+
+</td>
+
+<td align="center">
+
+📸
+
+<br>
+
+<a href="https://instagram.com/d_cuts_vf">
+<b>Instagram</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+📝
+
+<br>
+
+<a href="https://dineshkumardev.blogspot.com/">
+<b>Blog</b>
+</a>
+
+</td>
+
+<td align="center">
+
+📩
+
+<br>
+
+<a href="mailto:dineshgokul2221@gmail.com">
+<b>Email</b>
+</a>
+
+</td>
+
+<td align="center">
+
+🎮
+
+<br>
+
+<b>Game Dev</b>
+
+</td>
+
+<td align="center">
+
+🎬
+
+<br>
+
+<b>Video</b>
+
+</td>
+
+<td align="center">
+
+🧊
+
+<br>
+
+<b>3D / VFX</b>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -339,9 +619,13 @@ I'm currently open to **freelance, part-time and full-time opportunities**.
 
 <div align="center">
 
-### 🎨 Design. 🎬 Create. 🎮 Build. 🤖 Explore.
+## 🎨 Design. 🎬 Create. 🎮 Build. 🤖 Explore.
 
-**Always learning. Always creating.**
+### Always learning. Always creating.
+
+<br>
+
+**Thanks for visiting my profile! 👋**
 
 📩 **Let's create something interesting together.**
 
